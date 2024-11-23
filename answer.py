@@ -24,3 +24,11 @@ my_list.sort()
 # question 7
 index_30 = my_list.index(30)
 print(index_30)
+
+age = 0
+
+
+if age >= 18:
+    print("You are eligible to vote.")
+else:
+    print("GO HOME")
